@@ -1,0 +1,83 @@
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('georgep','1111111111111111')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('georgep','1111111111111110')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('georgep','1111111111111100')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('georgep','1111111111111000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('georgep','1111111111110000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('calcwizard','1111111111100000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('calcultron','1111111111000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('calcultron2','1111111110000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('calcultron2','1111111100000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('imready','1111110000000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('isthisthekrustykrab','1111100000000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('isthisthekrustykrab','1111000000000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('isthisthekrustykrab','1110000000000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('fullMetal','1100000000000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('notFullMetal','1000000000000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('ilikemoney$$','9000000000000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('ilikemoney$$','2222222222222222')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('ilikemoney$$','2222222222222220')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('eeqmcsquare','2222222222222200')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('theScienceGuy','2222222222222000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('entropyRox','2222222222220000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('entropyRox','2222222222200000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('cool_class4400','2222222222000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('thePiGuy3.14','2222222220000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('does2Much','2222222200000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('programerAAL','2222222000000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('DNAhelix','2220000000000000')
+
+INSERT INTO credit_card (username, credit_card_num) VALUES
+('RitzLover28','3333333333333300')

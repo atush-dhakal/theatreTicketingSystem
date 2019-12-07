@@ -1,0 +1,11 @@
+INSERT INTO credit_card_payment (movie_name, movie_release_date, movie_play_date, theater_name, company_name, credit_card_num) VALUES
+('How to Train Your Dragon','40258','40270','Cinema Star','4400 Theater Company','1111111111111111')
+
+INSERT INTO credit_card_payment (movie_name, movie_release_date, movie_play_date, theater_name, company_name, credit_card_num) VALUES
+('How to Train Your Dragon','40258','40259','Main Movies','EZ Theater Company','1111111111111111')
+
+INSERT INTO credit_card_payment (movie_name, movie_release_date, movie_play_date, theater_name, company_name, credit_card_num) VALUES
+('How to Train Your Dragon','40258','40260','Main Movies','EZ Theater Company','1111111111111111')
+
+INSERT INTO credit_card_payment (movie_name, movie_release_date, movie_play_date, theater_name, company_name, credit_card_num) VALUES
+('How to Train Your Dragon','40258','40262','Star Movies','EZ Theater Company','1111111111111100')

@@ -1,0 +1,14 @@
+INSERT INTO visit VALUES (username, theater_name, company_name, visit_date, visit_id) VALUES
+('georgep','Main Movies','EZ Theater Company','40259',1)
+
+INSERT INTO visit VALUES (username, theater_name, company_name, visit_date, visit_id) VALUES
+('calcwizard','Main Movies','EZ Theater Company','40259',2)
+
+INSERT INTO visit VALUES (username, theater_name, company_name, visit_date, visit_id) VALUES
+('calcwizard','Star Movies','EZ Theater Company','40262',3)
+
+INSERT INTO visit VALUES (username, theater_name, company_name, visit_date, visit_id) VALUES
+('imready','Star Movies','EZ Theater Company','40262',4)
+
+INSERT INTO visit VALUES (username, theater_name, company_name, visit_date, visit_id) VALUES
+('calcwizard','ML Movies','AI Theater Company','40257',5)

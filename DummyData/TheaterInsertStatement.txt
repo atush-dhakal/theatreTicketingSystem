@@ -1,0 +1,20 @@
+INSERT INTO theater (company_name, theater_name, manager, capacity, street, city, state, zipcode) VALUES
+('EZ Theater Company','Main Movies','fatherAI',3,'123 Main St','New York','NY','10001')
+
+INSERT INTO theater (company_name, theater_name, manager, capacity, street, city, state, zipcode) VALUES
+('EZ Theater Company','Star Movies','calcultron',2,'745 GT St','Atlanta','GA','30332')
+
+INSERT INTO theater (company_name, theater_name, manager, capacity, street, city, state, zipcode) VALUES
+('4400 Theater Company','Cinema Star','entropyRox',4,'100 Cool Place','San Francisco','CA','94016')
+
+INSERT INTO theater (company_name, theater_name, manager, capacity, street, city, state, zipcode) VALUES
+('4400 Theater Company','Star Movies','radioactivePoRa',5,'4400 Rocks Ave','Boulder','CA','80301')
+
+INSERT INTO theater (company_name, theater_name, manager, capacity, street, city, state, zipcode) VALUES
+('4400 Theater Company','Jonathan's Movies','georgep',2,'67 Pearl Dr','Seattle','WA','98101')
+
+INSERT INTO theater (company_name, theater_name, manager, capacity, street, city, state, zipcode) VALUES
+('Awesome Theater Company','ABC Theater','imbatman',5,'880 Color Dr','Austin','TX','73301')
+
+INSERT INTO theater (company_name, theater_name, manager, capacity, street, city, state, zipcode) VALUES
+('AI Theater Company','ML Movies','ghcghc',3,'314 Pi St','Pallet Town','KS','31415')

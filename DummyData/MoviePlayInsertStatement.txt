@@ -1,0 +1,62 @@
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('4400 The Movie','2019-08-12','2019-10-12','ABC Theater','Awesome Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('The First Pokemon Movie','1998-07-19','2018-07-19','ABC Theater','Awesome Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('Georgia Tech The Movie','1985-08-13','1985-08-13','ABC Theater','Awesome Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('How to Train Your Dragon','2010-03-21','2010-04-02','Cinema Star','4400 Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('4400 The Movie','2019-08-12','2019-09-12','Cinema Star','4400 Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('The King's Speech','2010-11-26','2019-12-20','Cinema Star','4400 Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES ('Spaceballs','1987-06-24','2000-02-02','Cinema Star','4400 Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('Georgia Tech The Movie','1985-08-13','2019-09-30','Cinema Star','4400 Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('George P Burdell's Life Story','1927-08-12','2010-05-20','Cinema Star','4400 Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('How to Train Your Dragon','2010-03-21','2010-03-22','Main Movies','EZ Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+ ('How to Train Your Dragon','2010-03-21','2010-03-23','Main Movies','EZ Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('Spaceballs','1987-06-24','1999-06-24','Main Movies','EZ Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('George P Burdell's Life Story','1927-08-12','2019-10-22','Main Movies','EZ Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('George P Burdell's Life Story','1927-08-12','2019-07-14','Main Movies','EZ Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('The King's Speech','2010-11-26','2019-12-20','Main Movies','EZ Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES ('Spaceballs','1987-06-24','2010-04-02','ML Movies','AI Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES ('Spaceballs','1987-06-24','2023-01-23','ML Movies','AI Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('Calculus Returns: A ML Story','2019-09-19','2019-10-10','ML Movies','AI Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('Calculus Returns: A ML Story','2019-09-19','2019-12-30','ML Movies','AI Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('Spider-Man: Into the Spider-Verse','2018-12-01','2019-09-30','ML Movies','AI Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('How to Train Your Dragon','2010-03-21','2010-03-25','Star Movies','EZ Theater Company')
+
+INSERT INTO movie_play (movie_name, movie_release_date, movie_play_date, theater_name, company_name) VALUES
+('4400 The Movie','2019-08-12','2019-08-12','Star Movies','EZ Theater Company')

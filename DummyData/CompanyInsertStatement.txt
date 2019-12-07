@@ -1,0 +1,11 @@
+INSERT INTO company (company_name) VALUES
+('EZ Theater Company')
+
+INSERT INTO company (company_name) VALUES
+('4400 Theater Company')
+
+INSERT INTO company (company_name) VALUES
+('Awesome Theater Company')
+
+INSERT INTO company (company_name) VALUES
+('AI Theater Company')

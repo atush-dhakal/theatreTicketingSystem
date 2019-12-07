@@ -1,0 +1,61 @@
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES
+('georgep','George P.','Burdell','111111111', 'manager-customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('calcwizard','Issac','Newton','222222222','customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('calcultron','Dwight','Schrute','333333333','manager-customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('calcultron2','Jim','Halpert','444444444','customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('gdanger','Gary','Danger','555555555','user','Declined')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('imbatman','Bruce','Wayne','666666666','manager','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('imready','Spongebob','Squarepants','777777777','customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('isthisthekrustykrab','Patrick','Star','888888888','customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('clarinetbeast','Squidward','Tentacles','999999999','customer','Declined')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('texasStarKarate','Sandy','Cheeks','111111110','user','Declined')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('fullMetal','Edward','Elric','111111100','customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('notFullMetal','Alphonse','Elric','111111100','customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('ilikemoney$$','Eugene','Krabs','111111110','customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('eeqmcsquare','Albert','Einstein','111111110','customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('theScienceGuy','Bill','Nye','999999999','customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('entropyRox','Claude','Shannon','999999999','manager-customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('fatherAI','Alan','Turing','222222222','manager','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES
+('cool_class4400','A. TA','Washere','333333333','manager-customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('thePiGuy3.14','Archimedes','Syracuse','1111111111','customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('does2Much','Carl','Gauss','1212121212','customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('programerAAL','Ada','Lovelace','3131313131','customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('radioactivePoRa','Marie','Curie','1313131313','manager','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('DNAhelix','Rosalind','Franklin','777777777','customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('ghcghc','Grace','Hopper','666666666','manager','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('RitzLover28','Abby','Normal','444444444','customer','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('smith_j','John','Smith','333333333','user','Pending')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('manager1','Manager','One','1122112211','manager','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('manager2','Manager','Two','3131313131','manager','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('manager3','Three','Three','8787878787','manager','Approved')
+
+INSERT INTO user (username,firstname,lastname,user_password,user_type,user_status) VALUES ('manager4','Four','Four','5755555555','manager','Approved')

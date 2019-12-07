@@ -1,0 +1,35 @@
+INSERT INTO manager (username, street, city, state, zipcode,  company) VALUES
+('cool_class4400','','','','','')
+
+INSERT INTO manager (username, street, city, state, zipcode,  company) VALUES
+('entropyRox','200 Cool Place','San Francisco','CA','94016','4400 Theater Company',)
+
+INSERT INTO manager (username, street, city, state, zipcode,  company) VALUES
+('fatherAI','456 Main St','New York','NY','10001','EZ Theater Company')
+
+INSERT INTO manager (username, street, city, state, zipcode,  company) VALUES
+('georgep','10 Pearl Dr','Seattle','WA','98105','4400 Theater Company')
+
+INSERT INTO manager (username, street, city, state, zipcode,  company) VALUES
+('calcultron','123 Peachtree St','Atlanta','GA','30308','EZ Theater Company')
+
+INSERT INTO manager (username, street, city, state, zipcode,  company) VALUES
+('imbatman','800 Color Dr','Austin','TX','78653','Awesome Theater Company')
+
+INSERT INTO manager (username, street, city, state, zipcode,  company) VALUES
+('ghcghc','100 Pi St','Pallet Town','KS','31415','AI Theater Company')
+
+INSERT INTO manager (username, street, city, state, zipcode,  company) VALUES
+('radioactivePoRa','100 Blu St','Sunnyvale','CA','94088','4400 Theater Company')
+
+INSERT INTO manager (username, street, city, state, zipcode,  company) VALUES
+('manager1','123 Ferst Drive','Atlanta','GA','30332','4400 Theater Company')
+
+INSERT INTO manager (username, street, city, state, zipcode,  company) VALUES
+('manager2','456 Ferst Drive','Atlanta','GA','30332','AI Theater Company')
+
+INSERT INTO manager (username, street, city, state, zipcode,  company) VALUES
+('manager3','789 Ferst Drive','Atlanta','GA','30332','4400 Theater Company')
+
+INSERT INTO manager (username, street, city, state, zipcode,  company) VALUES
+('manager4','000 Ferst Drive','Atlanta','GA','30332','4400 Theater Company')
